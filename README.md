@@ -16,7 +16,7 @@ This replication package contains the scripts required to replicate the results 
 ## Replication instructions
 
 ### Data preparation
-1. Place the source data in the `data/source_data/` folder. Make sure to also place the file `data/source_data/        - SBI_2008_versie_2018_update_2019.xlsx`, which is available in the replication package folder.
+1. Place the source data in the `data/source_data/` folder. Make sure to also place the file `data/source_data/SBI_2008_versie_2018_update_2019.xlsx`, which is available in the replication package folder.
 2. Adjust the file paths in `00_main.R` to match your directory structure.
 
 ### Run analysis 
